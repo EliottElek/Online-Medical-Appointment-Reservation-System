@@ -214,11 +214,10 @@
   .body{
     width: 100%;
     background-color: rgb(202, 172, 177);
-    height: 600px;
     background-image: url("../constants/images/background.png");
     background-size: 679px 379px;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position:bottom 0 right 0;
   }
   .logo{
     position:absolute;
